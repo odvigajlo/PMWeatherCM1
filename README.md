@@ -6,7 +6,7 @@ Addon that adds support of CM1 simulations for Protomanly's Weather Mod.
 
 Due to file size constraints, the scenarios (simulations) are hosted here.
 
-Download the .jar file from Modrinth and PMWeatherEnhancements resource pack.
+Download the .jar file from Modrinth.
 
 Download scenarios from Releases tab.
 
